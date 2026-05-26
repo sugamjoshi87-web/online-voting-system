@@ -1,67 +1,6 @@
 /*========================================================
                 ONLINE VOTING SYSTEM
-==========================================================
-
-Mini Project in C Programming
-
-Project Title:
-Online Voting System
-
-Group Members:
-1. Sugam Joshi       Roll No:  45
-2. Kapil Bohora      Roll No:  23
-3. Subodh Pant       Roll No:  43
-4. Rashmi Bhatt      Roll No:  38
-
-----------------------------------------------------------
-Project Summary:
-----------------------------------------------------------
-
-This project is a simple Online Voting System developed
-using C programming language. The system allows voters
-to register, login securely and cast their votes.
-The project also includes an admin panel for managing
-the election process.
-
-Main features of the project:
-
-- Voter registration system
-- Automatic voter ID generation
-- Password encryption for security
-- One person can vote only once
-- Election date management
-- Admin control system
-- Automatic vote counting
-- Result display system
-- File handling for permanent data storage
-
-The project uses concepts like:
-structures, functions, file handling,
-conditional statements, loops,
-authentication and date/time handling.
-
---------------------------------------------------------
-ADMIN VOTING CONTROL
---------------------------------------------------------
-
-In this project, the admin can also manually start
-the voting process using the admin panel.
-
-Reason:
-Even if the election date arrives, the admin may need
-to verify the system, check technical setup or confirm
-that all election processes are ready before officially
-starting voting.
-
-The system stores voter information, election details,
-party details, and voting status in separate files.
-Only registered users can vote and each voter can vote
-only once.
-
-This project helps demonstrate how programming concepts
-can be applied to solve real-world problems digitally.
-
-========================================================*/
+==========================================================*/
 
 #include <stdio.h>
 #include <stdlib.h>
